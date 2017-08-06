@@ -10,7 +10,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 
 @RunWith(JUnit4.class)
-public class TEST_JWT {
+public class Test_Jwt {
 
   @BeforeClass
   public static void setUpBeforeClass() throws Exception {}
