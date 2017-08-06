@@ -1,4 +1,4 @@
-
+package sort;
 
 import org.junit.After;
 import org.junit.AfterClass;
@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import commons.Utils_Sort_Manger;
+import sort.Utils_Sort_Manger;
 
 public class Test_Sort {
 
